@@ -2,9 +2,9 @@ import { PrismaClient } from '@prisma/client'
 
 const prisma = new PrismaClient()
 
+//check Database connection 
 async function main() {
   console.log("Database connected Successfully!!!!")
 }
 
-main()
-  .catch((e) => console.error(e))
+main().catch((e) => console.error(e))
