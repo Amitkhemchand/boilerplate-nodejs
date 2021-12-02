@@ -15,7 +15,7 @@
     "prisma": "^3.5.0"
   },
   "dependencies": {
-    "@prisma/client": "^3.5.0",
+    "@prisma/client": "^3.6.0",
     "@types/node": "^16.11.10",
     "express": "^4.17.1",
     "nodemon": "^2.0.15",
